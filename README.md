@@ -13,9 +13,5 @@ I'm emmanuel_okp, I am a Junior Frontend Developer, currently shaping my skills 
 - 📫 How to reach me: ...
 - 😄 Pronouns:
 - ⚡ Fun fact:  Did you know that looking away from your computer screen at 20 feet for 20 seconds in every 20 minutes could help reduce eyestrain caused by computer vision syndrome? 
-<!--
-**okp980/okp980** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
--->
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=okp980)](https://github.com/anuraghazra/github-readme-stats)
