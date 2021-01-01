@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##About me
+## About me
 
 I'm emmanuel_okp, I am a Junior Frontend Developer, currently shaping my skills on Javascript. I love trying to make UI/UX projects come alive with HTML/CSS and creating functionality with javascript. I cant wait to start using react-js...I've to finish my Javascript Object Oriented Programming first 🤔.
 
