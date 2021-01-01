@@ -1,3 +1,4 @@
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/okp980)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/emmanuel_okp)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/emmanuel_okp) 
 ### Hi there 👋, my name is Emmanuel Okp
 #### I am a Junior Frontend Developer
 ![I am a Junior Frontend Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
@@ -13,7 +14,7 @@ Skills: HTML / CSS / JS
 - ⚡ Fun fact:  Did you know that looking away from your computer screen at 20 feet for 20 seconds in every 20 minutes could help reduce eyestrain caused by computer vision syndrome? 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/okp980)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/emmanuel_okp)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/emmanuel_okp)  
+ 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okp980)](https://github.com/anuraghazra/github-readme-stats)
 
