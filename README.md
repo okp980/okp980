@@ -1,9 +1,5 @@
 ![I am a Junior Frontend Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
-<div align="center">
-<img src="https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-" align="center" style="width: 100%" />
-</div>  
+  
   
 
 ### Hi there 👋, my name is Emmanuel Okp  
