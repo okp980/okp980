@@ -91,7 +91,4 @@ I am currently shaping my skills on Javascript Programming Language. I love tryi
 <br/>  
 
 
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=okp980)  
-
-
+ 
