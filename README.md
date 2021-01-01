@@ -1,6 +1,8 @@
 ![I am a Junior Frontend Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-  
-  
+ 
+![Profile views](https://gpvc.arturio.dev/okp980)   
+
+
 
 ### Hi there 👋, my name is Emmanuel Okp  
   
@@ -90,15 +92,6 @@ I am currently shaping my skills on Javascript Programming Language. I love tryi
 
 
 
-
- 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=okp980)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=okp980&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/okp980)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=okp980)  
 
-![Profile views](https://gpvc.arturio.dev/okp980)  
+
