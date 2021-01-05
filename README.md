@@ -14,10 +14,10 @@
 I am currently shaping my skills on Javascript Programming Language. I love trying to make UI/UX projects come alive with HTML/CSS and creating functionality with javascript. I cant wait to start using react-js...I've to finish my Javascript Object Oriented Programming first 🤔.  
   
 
-- 🔭 I’m currently working on a calculator app   
+- 🔭 I’m currently working on using an OOP approach on a calculator app project   
   
 
-- 🌱 I’m currently learning  Javascript OOP  
+- 🌱 I’m currently learning Javascript OOP  
   
 
 - ⚡ Fun fact:  Did you know that looking away from your computer screen at 20 feet for 20 seconds in every 20 minutes could help reduce eyestrain caused by computer vision syndrome?  
