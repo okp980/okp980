@@ -1,13 +1,11 @@
-![I am a Junior Frontend Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
- 
-![Profile views](https://gpvc.arturio.dev/okp980)   
+ ![Profile views](https://gpvc.arturio.dev/okp980)   
 
 
 
-### Hi there 👋, my name is Emmanuel Okp  
+## Hi there 👋, my name is Emmanuel Okp  
   
 
-#### I am a Junior Frontend Developer  
+### I am a Junior Frontend Developer  
   
 
 
