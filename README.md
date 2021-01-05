@@ -14,7 +14,7 @@
 I am currently shaping my skills on Javascript Programming Language. I love trying to make UI/UX projects come alive with HTML/CSS and creating functionality with javascript. I cant wait to start using react-js...I've to finish my Javascript Object Oriented Programming first 🤔.  
   
 
-- 🔭 I’m currently working on using an OOP approach on a calculator app project   
+- 🔭 I’m currently working on using an OOP approach in a calculator app project   
   
 
 - 🌱 I’m currently learning Javascript OOP  
