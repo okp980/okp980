@@ -5,7 +5,7 @@
 ## Hi there 👋, my name is Emmanuel Okp  
   
 
-### I am a Junior Frontend Developer  
+### I am Currently Learning Frontend Development 
   
 
 
