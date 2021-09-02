@@ -17,7 +17,6 @@ I am currently shaping my skills on Javascript Programming Language. I love tryi
 
   
 
-- 🌱 I’m currently learning Javascript OOP  
   
 
 - ⚡ Fun fact:  Did you know that looking away from your computer screen at 20 feet for 20 seconds in every 20 minutes could help reduce eyestrain caused by computer vision syndrome?  
