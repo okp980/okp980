@@ -5,13 +5,12 @@
 ## Hi there 👋, my name is Emmanuel Okp  
   
 
-### I am Currently Learning Frontend Development 
+### I am a Frontend Developer 
   
 
 
 
-### About Me  
-I am currently shaping my skills on Javascript Programming Language. I love trying to make UI/UX projects come alive with HTML/CSS and creating functionality with javascript. 
+. 
   
 
 
