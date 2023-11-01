@@ -1,6 +1,3 @@
- ![Profile views](https://gpvc.arturio.dev/okp980)   
-
-
 
 ## Hi there 👋
 I am a MERN stack developer, passionate about building innovative and exciting projects using JavaScript for mobile and web.
